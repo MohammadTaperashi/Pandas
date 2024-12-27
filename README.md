@@ -1,2 +1,2 @@
 # Pandas
-All of my Pandas projects are stored here.
+All  of my projects that are done by Pandas are stored here.
